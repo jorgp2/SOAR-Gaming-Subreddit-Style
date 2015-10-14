@@ -1,0 +1,161 @@
+.flair {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.flair-Armoured {
+    width: 22px;
+    height: 21px;
+    background-position: 0 0;
+}
+
+.flair-Captain {
+    width: 22px;
+    height: 21px;
+    background-position: 0 -21px;
+}
+
+.flair-FiveStar {
+    width: 22px;
+    height: 21px;
+    background-position: 0 -42px;
+}
+
+.flair-Recruit {
+    width: 44px;
+    height: 21px;
+    background-position: 0 -63px;
+}
+
+.flair-Recruiter {
+    width: 22px;
+    height: 21px;
+    background-position: 0 -84px;
+}
+
+.flair-Specialist {
+    width: 22px;
+    height: 21px;
+    background-position: 0 -105px;
+}
+
+.flair-Specialisteod {
+    width: 44px;
+    height: 21px;
+    background-position: 0 -126px;
+}
+
+.flair-Specialistmedic {
+    width: 44px;
+    height: 21px;
+    background-position: 0 -147px;
+}
+
+.flair-airman {
+    width: 22px;
+    height: 21px;
+    background-position: 0 -168px;
+}
+
+.flair-corporal {
+    width: 22px;
+    height: 21px;
+    background-position: 0 -189px;
+}
+
+.flair-corporalmedic {
+    width: 44px;
+    height: 21px;
+    background-position: 0 -210px;
+}
+
+.flair-eod {
+    width: 22px;
+    height: 21px;
+    background-position: 0 -231px;
+}
+
+.flair-firstlieutenant {
+    width: 22px;
+    height: 21px;
+    background-position: 0 -252px;
+}
+
+.flair-lieutenantcolonel {
+    width: 22px;
+    height: 21px;
+    background-position: 0 -273px;
+}
+
+.flair-major {
+    width: 22px;
+    height: 21px;
+    background-position: 0 -294px;
+}
+
+.flair-marksman {
+    width: 22px;
+    height: 21px;
+    background-position: 0 -315px;
+}
+
+.flair-medic {
+    width: 22px;
+    height: 21px;
+    background-position: 0 -336px;
+}
+
+.flair-private {
+    width: 22px;
+    height: 21px;
+    background-position: 0 -357px;
+}
+
+.flair-privatefirstclass {
+    width: 22px;
+    height: 21px;
+    background-position: 0 -378px;
+}
+
+.flair-privatefirstclassmedic {
+    width: 44px;
+    height: 21px;
+    background-position: 0 -399px;
+}
+
+.flair-sargeant {
+    width: 22px;
+    height: 21px;
+    background-position: 0 -420px;
+}
+
+.flair-sargeantaviation {
+    width: 44px;
+    height: 21px;
+    background-position: 0 -441px;
+}
+
+.flair-sargeantfirstclass {
+    width: 22px;
+    height: 21px;
+    background-position: 0 -462px;
+}
+
+.flair-secondlieutenant {
+    width: 22px;
+    height: 21px;
+    background-position: 0 -483px;
+}
+
+.flair-staffsargeant {
+    width: 22px;
+    height: 21px;
+    background-position: 0 -504px;
+}
+
+.flair-wings {
+    width: 22px;
+    height: 21px;
+    background-position: 0 -525px;
+}
