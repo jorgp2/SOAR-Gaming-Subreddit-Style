@@ -653,6 +653,7 @@ New Flair area				#NFA#
 		    background: linear-gradient(top, #333, #191919)!important;
 		    box-shadow: inset 0px 1px 0px #444;
 		}
+
 	.tabmenu li a,
 	 .tabmenu.formtab li a,
 	 .dropdown.lightdrop .selected 
@@ -698,7 +699,7 @@ New Flair area				#NFA#
 	 #RESMainGearOverlay,
 	 #sr-header-area 
 		{
-		    background-color: #181818 !important;
+		    background-color: #1f1f1f !important;
 		}
     
 
@@ -1959,21 +1960,21 @@ New Flair area				#NFA#
 	}
 
 	body .comment,body .comment .comment .comment,body .comment .comment .comment .comment .comment,body .comment .comment .comment .comment .comment .comment .comment,body .comment .comment .comment .comment .comment .comment .comment .comment .comment,.res-commentBoxes .content .comment,.res-commentBoxes .content .comment .comment .comment,.res-commentBoxes .content .comment .comment .comment .comment .comment,.res-commentBoxes .content .comment .comment .comment .comment .comment .comment .comment,.res-commentBoxes .content .comment .comment .comment .comment .comment .comment .comment .comment .comment {
-	    background-color: #181818 !important;
-	    border-top: 1px solid #141414 !important;
-	    border-radius: 0 !important;
-	  border-right: 0 !important;
-	  border-bottom: 0 !important;
-	  border-left: 0 !important;
+		background-color: #181818 !important;
+		border-top: 1px solid #141414 !important;
+		border-radius: 0 !important;
+		border-right: 0 !important;
+		border-bottom: 0 !important;
+		border-left: 0 !important;
 	}
 
-	.comment .comment,.comment .comment .comment .comment,.comment .comment .comment .comment .comment .comment,.comment .comment .comment .comment .comment .comment .comment .comment,.comment .comment .comment .comment .comment .comment .comment .comment .comment .comment,.res-commentBoxes .content .comment .comment,.res-commentBoxes .content .comment .comment .comment .comment,.res-commentBoxes .content .comment .comment .comment .comment .comment .comment,.res-commentBoxes .content .comment .comment .comment .comment .comment .comment .comment .comment,.res-commentBoxes .content .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment {
+	.comment .comment .comment .comment,.comment .comment .comment .comment .comment .comment,.comment .comment .comment .comment .comment .comment .comment .comment,.comment .comment .comment .comment .comment .comment .comment .comment .comment .comment,.res-commentBoxes .content .comment .comment,.res-commentBoxes .content .comment .comment .comment .comment,.res-commentBoxes .content .comment .comment .comment .comment .comment .comment,.res-commentBoxes .content .comment .comment .comment .comment .comment .comment .comment .comment,.res-commentBoxes .content .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment {
 	    background-color: #222 !important;
 	    border-top: 1px solid #222 !important;
 	    border-radius: 0 !important;
-	  border-right: 0 !important;
-	  border-bottom: 0 !important;
-	  border-left: 0 !important;
+		border-right: 0 !important;
+		border-bottom: 0 !important;
+		border-left: 0 !important;
 	}
 
 
