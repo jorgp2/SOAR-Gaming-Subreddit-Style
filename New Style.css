@@ -34,7 +34,13 @@ New Flair area				#NFA#
 
 
 /* HIDDEN AREA - remove as you desire (but then you'll have to skin them)				  		#0HA#*/
-
+	.linkinfo,
+	.linkinfo .score .word,
+	.linkinfo .date,
+	.linkinfo .totalvotes,
+	.morelink .nub,
+	#REScommentNavToggle > span,
+	#REScommentNavToggle,
 	.deleted .grayed
 	{
 	    display: none !important;
@@ -460,7 +466,11 @@ New Flair area				#NFA#
 
 /* BACKGROUND COLOR AREA --------------------------------------------------------------------- 	#BCA#*/
 
-	body,
+	body
+		{
+			background-color:#111 !important; /* background */
+		}
+
 	 .side,
 	 .gadget .reddit-link-end,
 	 .linkinfo,
@@ -1953,6 +1963,7 @@ New Flair area				#NFA#
 
 	.comment .comment {
 	    margin: 0 !important;
+	    border-top: 1px solid #222222;
 	    border-radius: 0 !important;
 	    border-right: none !important;
 	    background-color: #141414 !important;
@@ -1960,17 +1971,17 @@ New Flair area				#NFA#
 	}
 
 	body .comment,body .comment .comment .comment,body .comment .comment .comment .comment .comment,body .comment .comment .comment .comment .comment .comment .comment,body .comment .comment .comment .comment .comment .comment .comment .comment .comment,.res-commentBoxes .content .comment,.res-commentBoxes .content .comment .comment .comment,.res-commentBoxes .content .comment .comment .comment .comment .comment,.res-commentBoxes .content .comment .comment .comment .comment .comment .comment .comment,.res-commentBoxes .content .comment .comment .comment .comment .comment .comment .comment .comment .comment {
-		background-color: #181818 !important;
-		border-top: 1px solid #141414 !important;
+		background-color: #222222 !important;
+		border-top: 4px solid #191919 !important;
 		border-radius: 0 !important;
 		border-right: 0 !important;
-		border-bottom: 0 !important;
+		border-bottom: 4px solid #222222!important;
 		border-left: 0 !important;
 	}
 
-	.comment .comment .comment .comment,.comment .comment .comment .comment .comment .comment,.comment .comment .comment .comment .comment .comment .comment .comment,.comment .comment .comment .comment .comment .comment .comment .comment .comment .comment,.res-commentBoxes .content .comment .comment,.res-commentBoxes .content .comment .comment .comment .comment,.res-commentBoxes .content .comment .comment .comment .comment .comment .comment,.res-commentBoxes .content .comment .comment .comment .comment .comment .comment .comment .comment,.res-commentBoxes .content .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment {
-	    background-color: #222 !important;
-	    border-top: 1px solid #222 !important;
+	.comment .comment,.comment .comment .comment .comment,.comment .comment .comment .comment .comment .comment,.comment .comment .comment .comment .comment .comment .comment .comment,.comment .comment .comment .comment .comment .comment .comment .comment .comment .comment,.res-commentBoxes .content .comment .comment,.res-commentBoxes .content .comment .comment .comment .comment,.res-commentBoxes .content .comment .comment .comment .comment .comment .comment,.res-commentBoxes .content .comment .comment .comment .comment .comment .comment .comment .comment,.res-commentBoxes .content .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment {
+	    background-color: #181818 !important;
+	    border-top: 4px solid #1f1f1f !important;
 	    border-radius: 0 !important;
 		border-right: 0 !important;
 		border-bottom: 0 !important;
